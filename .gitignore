@@ -10,3 +10,7 @@
 
 # Extra Stuff
 /vscode/
+
+
+# Build directories
+dist/

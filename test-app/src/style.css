@@ -199,7 +199,6 @@ body {
     justify-content: center;
     overflow: hidden;
 
-    transition: transform 0.1s ease;
     border: 2.5px solid #ffffff;
 }
 
@@ -218,7 +217,6 @@ button[data-action="BRAKE_ON"] { background: #e60000; width: 100%; height: 100%;
 button[data-action="BRAKE_OFF"] { background: #e38585; width: 100%; height: 100%; border-radius: 25px;}
 
 .app-button.pressed {
-    transform: scale(1.05);
     opacity: 0.8;
     /* border: 3px solid #ffffff; */
 }

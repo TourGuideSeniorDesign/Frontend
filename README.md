@@ -1,4 +1,4 @@
-
+# ⚠️ DEPRECATED ⚠️ This repo is no longer active
 # Frontend
 
 ## ECE 492 Senior Design Frontend Code
